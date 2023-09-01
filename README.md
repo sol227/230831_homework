@@ -30,6 +30,7 @@
   </table>
 </body>
 </html>
+
 - tableEx2
 <!DOCTYPE html>
 <html lang="ko">
@@ -63,6 +64,7 @@
   </table>
 </body>
 </html>
+
 - tableEx3
 <!DOCTYPE html>
 <html lang="ko">
