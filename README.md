@@ -3,7 +3,7 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <title>테이블 연습1</title>
+<!-- <title>테이블 연습1</title> -->
 </head>
 <body>
   <h1>테이블 연습1</h1>
@@ -36,7 +36,7 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <title>테이블 연습 2</title>
+<!-- <title>테이블 연습2</title> -->
 </head>
 <body>
   <h1>테이블 연습2</h1>
@@ -69,10 +69,10 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <title>테이블 연습3</title>
+<!-- <title>테이블 연습3</title> -->
 </head>
 <body>
-  <h1>테이블 연습 3</h1>
+  <h1>테이블 연습3</h1>
   <table border="1">
     <caption>백종원의 '불고기 샌드위치' 레시피</caption>
     <tr>
